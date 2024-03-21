@@ -21,9 +21,9 @@ Meningkatkan Ketaatan Pengguna Kepada Allah SWT: AI dapat membantu pengguna untu
 
 Contoh Penerapan:
 
-Seseorang curhat tentang masalah percintaannya. AI akan memberikan nasihat tentang bagaimana memilih pasangan yang sesuai dengan ajaran Islam dan bagaimana membangun hubungan yang sehat dan harmonis.
-Seseorang curhat tentang masalah keuangannya. AI akan memberikan nasihat tentang bagaimana mengelola keuangan dengan baik dan bagaimana keluar dari hutang.
-Seseorang curhat tentang masalah stresnya. AI akan memberikan nasihat tentang bagaimana mengatasi stres dengan cara yang Islami.
+1. Seseorang curhat tentang masalah percintaannya. AI akan memberikan nasihat tentang bagaimana memilih pasangan yang sesuai dengan ajaran Islam dan bagaimana membangun hubungan yang sehat dan harmonis.
+2. Seseorang curhat tentang masalah keuangannya. AI akan memberikan nasihat tentang bagaimana mengelola keuangan dengan baik dan bagaimana keluar dari hutang.
+3. Seseorang curhat tentang masalah stresnya. AI akan memberikan nasihat tentang bagaimana mengatasi stres dengan cara yang Islami.
 
 Teknologi yang Digunakan:
 AI Generative: Guna memproses input dari user dan memproses data dari Al-Quran, Hadits, serta Sejarah Islam untuk memberikan gambaran solusi bagi user.

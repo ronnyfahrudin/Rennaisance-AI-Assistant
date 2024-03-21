@@ -1,5 +1,7 @@
 # Rennaisance-AI-Assistant
-![AI-quran](https://github.com/ronnyfahrudin/Rennaisance-AI-Assistant/assets/59369289/e8c6c58c-3ed4-48dc-8a67-e8ee83030f4f)
+![Gemini_Generated_Image (8)](https://github.com/ronnyfahrudin/Rennaisance-AI-Assistant/assets/59369289/1440322e-3cca-4220-8b27-e9d34a99d48e)
+
+
 Sebuah AI yang dirancang untuk menjadi teman curhat bagi umat Islam, dengan kemampuan untuk memberikan nasihat berdasarkan Al-Quran, Hadits, dan Sejarah Islam. AI ini akan mendengarkan keluh kesah pengguna dan memberikan solusi yang sesuai dengan ajaran Islam.
 
 Fitur:

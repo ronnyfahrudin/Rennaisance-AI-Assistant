@@ -26,13 +26,13 @@ Contoh Penerapan:
 3. Seseorang curhat tentang masalah stresnya. AI akan memberikan nasihat tentang bagaimana mengatasi stres dengan cara yang Islami.
 
 Teknologi yang Digunakan:
-AI Generative: Guna memproses input dari user dan memproses data dari Al-Quran, Hadits, serta Sejarah Islam untuk memberikan gambaran solusi bagi user.
-Natural Language Processing (NLP): Untuk memahami konteks curhatan pengguna dan mengidentifikasi masalah yang dihadapi.
-Machine Learning (ML): Untuk memberikan nasihat dan solusi yang relevan dengan masalah pengguna.
-Knowledge Graph: Untuk menyimpan informasi tentang Al-Quran, Hadits, dan Sejarah Islam.
+1. AI Generative: Guna memproses input dari user dan memproses data dari Al-Quran, Hadits, serta Sejarah Islam untuk memberikan gambaran solusi bagi user.
+2. Natural Language Processing (NLP): Untuk memahami konteks curhatan pengguna dan mengidentifikasi masalah yang dihadapi.
+3. Machine Learning (ML): Untuk memberikan nasihat dan solusi yang relevan dengan masalah pengguna.
+4. Knowledge Graph: Untuk menyimpan informasi tentang Al-Quran, Hadits, dan Sejarah Islam.
 
 Tantangan:
 
-Memastikan keakuratan nasihat dan solusi yang diberikan.
-Menjaga privasi pengguna.
-Membuat AI yang mudah digunakan dan dipahami oleh semua kalangan.
+1. Memastikan keakuratan nasihat dan solusi yang diberikan.
+2. Menjaga privasi pengguna.
+3. Membuat AI yang mudah digunakan dan dipahami oleh semua kalangan.

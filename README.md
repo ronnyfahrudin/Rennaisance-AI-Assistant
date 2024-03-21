@@ -26,7 +26,7 @@ Seseorang curhat tentang masalah keuangannya. AI akan memberikan nasihat tentang
 Seseorang curhat tentang masalah stresnya. AI akan memberikan nasihat tentang bagaimana mengatasi stres dengan cara yang Islami.
 
 Teknologi yang Digunakan:
-
+AI Generative: Guna memproses input dari user dan memproses data dari Al-Quran, Hadits, serta Sejarah Islam untuk memberikan gambaran solusi bagi user.
 Natural Language Processing (NLP): Untuk memahami konteks curhatan pengguna dan mengidentifikasi masalah yang dihadapi.
 Machine Learning (ML): Untuk memberikan nasihat dan solusi yang relevan dengan masalah pengguna.
 Knowledge Graph: Untuk menyimpan informasi tentang Al-Quran, Hadits, dan Sejarah Islam.
